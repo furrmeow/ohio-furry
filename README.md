@@ -1,5 +1,8 @@
 # Furry
 
+> ## Licensed!
+> Thist content is under [MIT](LICENSE "Go to this LICENSE file.") license.
+
 > Hello, its **furry** site!
 > 
 > <img src="source/cutie%20fox.png" width="25%" height="25%">
