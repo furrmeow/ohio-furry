@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+p {
+  font-size: 2rem;
+}
+
+button {
+  padding: 7px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button.blue {
+  background-color: #3498db;
+}
+
+button.green {
+  background-color: #2ecc71;
+}
+
+button.orange {
+  background-color: rgb(255, 68, 0);
+}
+
+button.magenta {
+  background-color: magenta;
+}
+
+button.gray {
+  background-color:gray;
+}
