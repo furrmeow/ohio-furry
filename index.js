@@ -1,30 +1,25 @@
-// javascript
-const sText = document.querySelector(".name")
-const Button1 = document.querySelector(".magenta")
-const Button2 = document.querySelector(".gray")
+// - Variables - //
 
-// functions
-// Button1
-function Change() {
-    sText.style.color = "blue";
+const FurryInput = document.querySelector(".furryinput");
+// const Button1 = document.querySelector(".magenta");
+// const Button2 = document.querySelector(".gray");
+
+// - Functions - //
+
+function Change(element) {
+  if ((element.class = "magenta")) {
+    FurryInput.style.color = "blue";
+    FurryInput.textContent = "OwO";
+  } else if ((element.class = "gray")) {
+    FurryInput.style.color = "black";
+    FurryInput.textContent = "Furried!";
+  }
 }
 
-function Enter() {
-    Button1.style.color = "white";
+function Enter(element) {
+  element.style.color = "white";
 }
 
-function Leave() {
-    Button1.style.color = "black";
-}
-// Button 2
-function Change2() {
-    sText.style.color = "black";
-}
-
-function Enter2() {
-    Button2.style.color = "white";
-}
-
-function Leave2() {
-    Button2.style.color = "black";
+function Leave(element) {
+  element.style.color = "black";
 }
