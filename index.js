@@ -4,6 +4,7 @@ const Button1 = document.querySelector(".magenta")
 const Button2 = document.querySelector(".gray")
 
 // functions
+// Button1
 function Change() {
     sText.style.color = "blue";
 }
@@ -15,8 +16,7 @@ function Enter() {
 function Leave() {
     Button1.style.color = "black";
 }
-
-
+// Button 2
 function Change2() {
     sText.style.color = "black";
 }
