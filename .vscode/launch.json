@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open fur.html",
-            "file": "c:\\Users\\evgur\\OneDrive\\Рабочий стол\\ohio furry\\fur.html"
+            "file": "c:\\Users\\evgur\\OneDrive\\Рабочий стол\\ohio furry\\pages\\fur.html"
         }
     ]
 }
