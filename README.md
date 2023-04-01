@@ -1,15 +1,8 @@
-# Furry
+# Non root branch
 
-> Hello, its **furry** site!
-> 
-> <img src="source/cutie%20fox.png" width="25%" height="25%">
+> Did you know? This is not a root branch. You can [visit]("https://github.com/FurUwU/ohio-furry/tree/root" "Go to the ROOT branch.") main tree of this repository.
 > <hr>
 
-> ## About
-> Its basically site on HTML. Its doing NOTHING!
+> ## About [LICENSE]("https://github.com/FurUwU/ohio-furry/tree/LICENSE" "This page...") branch
+> This thread created for [LICENSE file](LICENSE "View MIT license.") update.
 > <hr>
-
-> ## Fur
-> You can wisit this site from following links:
-> - [localhost](https://google.com/ "Run a localhost!")
-> - [git](https://github.com/ "Github.")
