@@ -9,7 +9,7 @@
 > <hr>
 
 > ## About
-> Its basically site on HTML. Its doing NOTHING!
+> Its basically site on HTML. Its doing NOTHING! If you want, you can read this file... 🤯
 > <hr>
 
 > ## Fur
