@@ -10,6 +10,7 @@ function Change(element) {
   if ((element.class = "magenta")) {
     FurryInput.style.color = "blue";
     FurryInput.textContent = "OwO";
+
   } else if ((element.class = "gray")) {
     FurryInput.style.color = "black";
     FurryInput.textContent = "Furried!";
@@ -17,9 +18,9 @@ function Change(element) {
 }
 
 function Enter(element) {
-  element.style.color = "white";
+  element.style.color = "black";
 }
 
 function Leave(element) {
-  element.style.color = "black";
+  element.style.color = "white";
 }

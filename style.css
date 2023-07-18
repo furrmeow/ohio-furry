@@ -9,10 +9,16 @@ p {
 }
 
 button {
-  padding: 7px;
+  padding: 6px;
   border: none;
-  border-radius: 4px;
+  border-radius: 0px;
   cursor: help;
+  block-size: 1.8rem;
+  text-align: top;
+
+  transition-property: all;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  transition-duration: 1s;
 }
 
 /* Colors */
